@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import turtle
 import pandas as pd
 
 import os
@@ -15,8 +14,8 @@ with col1:
 with col2:
     '놓치면 후회할 인재 (신수인, 시급 3만원, 대박 쩔어~~)'
     '전화번호(📞) : 010-xxxx-xxxx'
-    '이메일(📧) : gktjdcjf97@n  aver.com'
-    '주소(🏠) : 충남 논사시 대학로 121'
+    '이메일(📧) : gktjdcjf97@naver.com'
+    '주소(🏠) : 충남 논산시 대학로 121'
 
 ''
 '-----------------------'
@@ -44,6 +43,7 @@ with col[3]:
 
 import sys
 sys.exit()
+
 fig, ax = plt.subplots()
 
 a = 2
