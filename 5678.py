@@ -29,7 +29,10 @@ with col[2]:
 with col[3]:
     st.link_button("Facebook(ⓕ)", "https://facebook.com")
 
-
+" "
+" "
+"##: orange[자기소개]"
+"### 저는 섹스입니다."
 
 
 
