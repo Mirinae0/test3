@@ -19,7 +19,7 @@ with col2:
 
 ''
 '-----------------------'
-col = st.sidebar.columns(4)
+col = st.columns(4)
 with col[0]:
     st.link_button("Google(🌐)", "https://google.com")
 with col[1]:
@@ -31,7 +31,7 @@ with col[3]:
 
 " "
 " "
-"##: orange[자기소개]"
+"## :orange[자기소개]"
 "### 저는 섹스입니다."
 
 
