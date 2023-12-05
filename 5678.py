@@ -12,7 +12,7 @@ col1, col2 = st.columns([1, 2])
 with col1:
     st.image('순심이.jpg')
 with col2:
-    '놓치면 후회할 인재 (신수인, 시급 3만원, 대박 쩔어~~)'
+    '놓치면 후회할 인재 (신수인, 시급 5만원, 대박 쩔어~~)'
     '전화번호(📞) : 010-xxxx-xxxx'
     '이메일(📧) : gktjdcjf97@naver.com'
     '주소(🏠) : 충남 논산시 대학로 121'
@@ -28,8 +28,6 @@ with col[2]:
     st.link_button("Daum(🇩)", "https://daum.net")
 with col[3]:
     st.link_button("Facebook(ⓕ)", "https://facebook.com")
-
-
 
 
 
